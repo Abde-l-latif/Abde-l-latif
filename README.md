@@ -1,11 +1,11 @@
 ## Hi there 👋 i'm abdellatif outegnit 
 ---
-# Programming concepts 
+### Programming concepts 
 > functional programming or procedural programming
 
-# first programming language 
+### first programming language 
 
-<img width="100" height="100" alt="pngwing com (5)" src="https://github.com/user-attachments/assets/89e5616a-376c-41ba-935f-75b9910e7f2a" />
+<img width="50" height="50" alt="pngwing com (5)" src="https://github.com/user-attachments/assets/89e5616a-376c-41ba-935f-75b9910e7f2a" />
 
 <!--
 **Abde-l-latif/Abde-l-latif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
