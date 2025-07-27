@@ -3,7 +3,7 @@
 ### Programming concepts 
 > functional programming or procedural programming
 
-### first programming language 
+### programming languages
 
 <img width="50" height="50" alt="pngwing com (5)" src="https://github.com/user-attachments/assets/89e5616a-376c-41ba-935f-75b9910e7f2a" />
 
