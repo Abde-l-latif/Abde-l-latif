@@ -1,7 +1,7 @@
 ## Hi there 👋 i'm abdellatif outegnit 
 
 ### Programming concepts 
-> functional programming or procedural programming
+> functional programming and procedural programming
 
 ### programming languages
 
