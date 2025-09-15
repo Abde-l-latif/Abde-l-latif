@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome%20&height=150&fontSize=50&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome%20&height=150&fontSize=50&textBg=true&animation=blinking)
+
 
 <div align="center"> 
   <h1> Hi there 👋 i'm abdellatif outegnit </h1>
