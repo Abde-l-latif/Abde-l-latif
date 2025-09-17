@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome%20&height=100&fontSize=40&textBg=true&animation=blinking)
-
 
 <div align="center"> 
   <h1> Hi there 👋 i'm abdellatif outegnit </h1>
