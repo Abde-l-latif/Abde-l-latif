@@ -7,7 +7,7 @@
   
 <tr>
   
-<td>
+<td width="450px">
 
 ### Programming concepts
 
@@ -17,7 +17,7 @@
 
 </td>
 
-<td >
+<td  width="450px">
 
 ### Programming languages  
 
