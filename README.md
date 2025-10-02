@@ -36,7 +36,7 @@
 </td>
 <td>
     
- ### Database 
+ ### Databases 
  <img width="50" height="50" alt="sql-server" src="https://github.com/user-attachments/assets/32f6879d-6404-4675-a2ae-b7dd365535d6" />
 
     
