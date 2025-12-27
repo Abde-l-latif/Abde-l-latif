@@ -3,6 +3,8 @@
   <h1> Hi there 👋 i'm abdellatif outegnit </h1>
 </div>
 
+:artificial_satellite: :arrow_forward: Desktop Developer
+
 <table border="0" >
   
 <tr>
@@ -21,8 +23,7 @@
 
 ### Programming languages  
 
-<img width="50" height="50" alt="pngwing com (5)" src="https://github.com/user-attachments/assets/89e5616a-376c-41ba-935f-75b9910e7f2a" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/94bbd08b-9533-48b6-8e12-1c5d01fee5a0" />
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,&perline=3)](https://skillicons.dev)
 
 </td>
 
@@ -31,15 +32,16 @@
 <td>
     
 ### Technologies
-<img width="50" height="40" alt="microsoft-net-logo-png_seeklogo-168315" src="https://github.com/user-attachments/assets/829c2fb9-3334-4f74-ad7b-e4e4e76d35b8" />
-    
+[![My Skills](https://skillicons.dev/icons?i=dotnet,&perline=3)](https://skillicons.dev)
+
+
 </td>
 <td>
     
  ### Databases 
- <img width="50" height="50" alt="sql-server" src="https://github.com/user-attachments/assets/32f6879d-6404-4675-a2ae-b7dd365535d6" />
+ 
+![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-    
   </td>
   
 </tr>
