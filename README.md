@@ -32,7 +32,8 @@
 <td>
     
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=dotnet,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,html,&perline=3)](https://skillicons.dev)
+
 
 
 </td>
