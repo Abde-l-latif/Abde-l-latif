@@ -49,6 +49,19 @@
 
 </table>
 
+## 🚀 Backend & Computer Science Roadmap Progress
+
+I’m following the Programming Advices roadmap by Dr. Mohammed Abu-Hadhoud.
+
+📚 Roadmap:
+https://programmingadvices.com/p/roadmap
+
+## 📈 Roadmap Status
+
+✅ 23 courses completed  
+🔄 Currently studying APIs & Course 23  
+
+
 
 
 <!--
