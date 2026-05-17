@@ -61,6 +61,9 @@ https://programmingadvices.com/p/roadmap
 ✅ 23 courses completed  
 🔄 Currently studying APIs & Course 23  
 
+## Projects 
+> POS System 
+
 
 
 
