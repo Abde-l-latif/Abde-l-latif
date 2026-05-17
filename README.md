@@ -3,7 +3,7 @@
   <h1> Hi there 👋 i'm abdellatif outegnit </h1>
 </div>
 
-:artificial_satellite: :arrow_forward: Desktop Developer
+:artificial_satellite: :arrow_forward: Full stack developer
 
 <table border="0" >
   
