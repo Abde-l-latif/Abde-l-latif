@@ -23,7 +23,7 @@
 
 ### Programming languages  
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,&perline=3)](https://skillicons.dev)
 
 </td>
 
@@ -32,7 +32,7 @@
 <td>
     
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=dotnet,html,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,html,css,&perline=3)](https://skillicons.dev)
 
 
 
@@ -58,11 +58,11 @@ https://programmingadvices.com/p/roadmap
 
 ## 📈 Roadmap Status
 
-✅ 23 courses completed  
-🔄 Currently studying APIs & Course 23  
+✅ 25 courses completed  
+✅ Roadmap Completed
 
-## Projects status
-> Currently doing a POS System desktop project
+## Other...
+✅ Front-end Roadmap by Elzero Web school Completed  
 
 
 
