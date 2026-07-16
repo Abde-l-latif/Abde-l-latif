@@ -32,7 +32,7 @@
 <td>
     
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=dotnet,html,css,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,html,css,react,&perline=3)](https://skillicons.dev)
 
 
 
